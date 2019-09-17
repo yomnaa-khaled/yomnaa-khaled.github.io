@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="157.315" height="183.742" viewBox="0 0 157.315 183.742">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.467" x2="1" y2="0.462" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.288" stop-color="#efefef"/>
+      <stop offset="0.478" stop-color="#bebebe"/>
+      <stop offset="0.781" stop-color="#efefef"/>
+      <stop offset="1" stop-color="#949494"/>
+    </linearGradient>
+  </defs>
+  <g id="Component_2_3" data-name="Component 2 – 3" transform="translate(0.5 0.5)">
+    <path id="Union_1" data-name="Union 1" d="M0,91.368a91.4,91.4,0,0,1,125.425-84.8,86.649,86.649,0,1,0,0,169.6A91.4,91.4,0,0,1,0,91.368Zm23.021,0A84.6,84.6,0,0,1,136.6,11.913l-1.781,4.9a79.38,79.38,0,1,0,0,149.119l1.781,4.9A84.6,84.6,0,0,1,23.021,91.368Zm7.568,0A76.965,76.965,0,0,1,146.149,24.74l-2.3,3.98a72.4,72.4,0,1,0-36.26,135.055,71.92,71.92,0,0,0,36.26-9.757l2.3,3.984A76.973,76.973,0,0,1,30.589,91.368Zm6.972,0A69.981,69.981,0,0,1,152.631,37.8l-2.906,3.462a65.506,65.506,0,1,0,0,100.215l2.906,3.464A69.984,69.984,0,0,1,37.561,91.368ZM66.909,139.6a54.288,54.288,0,0,0,67.817-14.934l21.236,7.21A63.005,63.005,0,0,1,66.909,139.6ZM91.855,37.078a54,54,0,0,0-24.943,6.056,63.017,63.017,0,0,1,89.05,7.719l-21.236,7.214A54.184,54.184,0,0,0,91.855,37.078Z" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
